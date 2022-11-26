@@ -7,6 +7,9 @@ https://qiita.com/morioheisei/items/08075929b8e125274884
 ## 現在の状況（上から最新順）
 
 
+https://nekop.hatenablog.com/entry/20131202/1385965701
+
+
 コード作成完了するも、javax.persistence全般が使用できない状況となっている。
 原因は以下のサイトを参照
 https://stackoverflow.com/questions/73350585/upgrade-from-spring-boot-2-7-2-to-spring-boot-3-0-0-snapshot-java-package-java
