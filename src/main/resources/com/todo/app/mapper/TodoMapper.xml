@@ -6,4 +6,9 @@
   <select id="selectAll" resultType="com.todo.app.entity.Todo">
     select * from todo_items
   </select>
+  
+    <insert id="add" parameterType="com.todo.app.entity.Todo">
+	    insert into todo_items (title,time_limit)
+	    values (#{title},#{time_limit})
+	</insert>
 </mapper>
