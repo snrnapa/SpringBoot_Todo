@@ -2,21 +2,9 @@
 
 ## 参考にしているサイト
 
-https://qiita.com/morioheisei/items/08075929b8e125274884
+https://qiita.com/tokio_dev/items/f9fcdf7d65f3a8ab0f23
 
 ## 現在の状況（上から最新順）
 
 
-https://nekop.hatenablog.com/entry/20131202/1385965701
-
-
-コード作成完了するも、javax.persistence全般が使用できない状況となっている。
-原因は以下のサイトを参照
-https://stackoverflow.com/questions/73350585/upgrade-from-spring-boot-2-7-2-to-spring-boot-3-0-0-snapshot-java-package-java
-
-
-
-spring bootのversion3.0.0のため対応するjdkはjava17
-jdkを導入して環境変数を変更したため再起動
-↓spring のシステム要件
-https://spring.pleiades.io/spring-boot/docs/current/reference/html/getting-started.html
+とりあえずtodoが表示されることは確認できた（現在は本当にTodoが表示されるだけの機能　追加機能ナシ）
